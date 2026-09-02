@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+scvd_analysis_*/
+scvd_report_*/
+*.avi
+!test.mp4

@@ -1,0 +1,9 @@
+gradio>=6.0,<7
+streamlit>=1.50,<2
+numpy>=2.0
+pandas>=2.0
+plotly>=5.0
+torch>=2.0
+torchvision>=0.15
+opencv-python-headless>=4.8
+ultralytics>=8.3
