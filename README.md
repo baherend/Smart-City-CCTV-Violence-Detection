@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/scvd-banner.png" alt="Smart City CCTV Violence Detection Banner" width="100%" />
+</p>
+
 # SCVD — Smart-City CCTV Violence Detection
 
 > A deep-learning surveillance analytics system that classifies CCTV footage as **Normal**, **Violence**, or **Weaponized**, localises *when* each incident happens on a timeline, and produces an explainable, downloadable review report.
